@@ -4,6 +4,6 @@ y=4
 print("phi is %d" %phi)
 print("phi is %f" %phi)
 print("phi is %e" %phi)
-print("x is %d, y is %d" %(x,y))
+print("x is \'%d\', y is \'%d\'" %(x,y))
 print("hello %s" %input("enter your name"))
 
